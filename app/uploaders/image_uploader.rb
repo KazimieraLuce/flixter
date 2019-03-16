@@ -3,6 +3,7 @@ class ImageUploader < CarrierWave::Uploader::Base
   # include CarrierWave::RMagick
    include CarrierWave::MiniMagick
 
+
 #put it back here
 
   # Override the directory where uploaded files will be stored.
